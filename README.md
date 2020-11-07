@@ -1,2 +1,2 @@
 # nignx
-A nginx docker based on Alpine with brotli enabled
+A nginx docker based on Alpine with brotli enabled.
